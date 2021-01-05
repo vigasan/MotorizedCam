@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Helvetica.ttf</file>
+        <file>images/HelveticaSemiBold.ttf</file>
+        <file>Slider.qml</file>
+        <file>SliderParameter.qml</file>
+        <file>HomePage.qml</file>
+        <file>Settings.qml</file>
+        <file>images/settings64.png</file>
+        <file>images/back64.png</file>
+        <file>JoyPad.qml</file>
+        <file>Switch.qml</file>
+        <file>SettingXPage.qml</file>
+        <file>SettingYPage.qml</file>
+        <file>images/joybgr.png</file>
+        <file>images/stepper128.png</file>
+        <file>RadioButton.qml</file>
+        <file>images/happy128.png</file>
+        <file>ClassifiersPage.qml</file>
+        <file>images/length128.png</file>
+        <file>SettingPidPage.qml</file>
+        <file>images/circle-64.png</file>
+    </qresource>
+</RCC>
